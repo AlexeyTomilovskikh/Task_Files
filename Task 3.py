@@ -1,5 +1,3 @@
-os import
-
 def read_text():
     with open('sorted/1.txt', 'r') as file:
         first_lines = file.readlines()
